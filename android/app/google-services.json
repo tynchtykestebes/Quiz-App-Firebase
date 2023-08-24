@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "634781427189",
+    "project_id": "quiz-app-firebase-caddf",
+    "storage_bucket": "quiz-app-firebase-caddf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634781427189:android:49c70efc2f15a4ed136cbc",
+        "android_client_info": {
+          "package_name": "com.example.quiz_app_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634781427189-3784j1vass5iaaup67dkbdr3bbtnkr0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-Z8_MpxoxVGjoBz-XNFXDtbYgJ8wSrSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "634781427189-3784j1vass5iaaup67dkbdr3bbtnkr0k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
